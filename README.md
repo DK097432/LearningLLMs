@@ -1,2 +1,2 @@
-# LLM-Projects
+# LLMs
 This Repository Contains LLM Projects
